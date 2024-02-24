@@ -12,14 +12,14 @@ Getting Started
 To get a local copy up and running follow these simple steps:
 
 ### Clone the repo
-sh
-Copy code
-git clone https://github.com/toubielawbar/W2024_COMP3097_PROJECT.git
-Open the project in Xcode
+    - sh
+    - Copy code
+    - git clone https://github.com/toubielawbar/W2024_COMP3097_PROJECT.git
+    - Open the project in Xcode
 
 Navigate to the project directory and open the .xcodeproj or .xcworkspace file to launch the project in Xcode.
 
-Run the app
+### Run the app
 
 Select an iOS simulator or connect a device and run the app through Xcode to start using it.
 
@@ -35,7 +35,8 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
-License
+
+### License
 Distributed under the MIT License. See LICENSE for more information.
 
 ### Acknowledgements
